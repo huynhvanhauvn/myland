@@ -65296,7 +65296,7 @@ R.azq(s,t.Sq).w(0,new F.wx())
 this.ba()},
 L:function(a,b){return new A.qI(new V.YX(this),null)}}
 V.YY.prototype={
-$1:function(a){return new E.o0(new D.lO(this.b,1),this.a.d,null)},
+$1:function(a){return new E.o0(new D.lO("https://cors-anywhere.herokuapp.com/"+this.b,1),this.a.d,null)},
 $S:380}
 V.YX.prototype={
 $2:function(a,b){var s=null
